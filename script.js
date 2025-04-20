@@ -1,3 +1,4 @@
+//This is an alternative JS function
 /*function changeBackgroundColor(color){
     let section = document.getElementById('coding-journey');
     section.style.backgroundColor = color;
